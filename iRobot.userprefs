@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{15719421-1318-4AA2-8498-F37941407020}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.iRobot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iRobot/Tests.cs">
+    <Files>
+      <File FileName="iRobot/AppInitializer.cs" Line="36" Column="73" />
+      <File FileName="iRobot/Tests.cs" Line="54" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
